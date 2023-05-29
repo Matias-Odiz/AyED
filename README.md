@@ -1,2 +1,2 @@
-# Matias Lionel Odiz
-# K1102
+#Nombre: Matias Lionel Odiz
+#Curso: K1102
